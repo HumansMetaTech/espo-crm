@@ -1,2 +1,2 @@
-# espo-crm
+# ESPO CRM
 A simple and rich CRM
