@@ -1,0 +1,1 @@
+[2024-03-08 13:11:25] ERROR: (0) need at least user in params; POST /EmailAccount/action/getFolders; line: 218, file: C:\xampp\htdocs\crm\vendor\laminas\laminas-mail\src\Storage\Imap.php  
